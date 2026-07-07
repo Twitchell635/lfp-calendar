@@ -1,0 +1,369 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LFP Jira//GND Board//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:LFP GND Board Tasks
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALDESC:Active and upcoming tasks from the LFP Jira GND board
+BEGIN:VEVENT
+UID:GND-49@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:📋 [GND-49] Reach out to Down To Earth to find ways to collaborate
+DESCRIPTION:Key: GND-49\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-49
+URL:https://tmitchelllfp.atlassian.net/browse/GND-49
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-82@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🔄 [GND-82] Set up photo documentation schedule
+DESCRIPTION:Key: GND-82\\nStatus: In Progress\\nPriority: Medium\\nEpic: Head-to-Head Grow Test: Garden Rich vs. Natures Best vs. Garden Rich Blowable\\nhttps://tmitchelllfp.atlassian.net/browse/GND-82
+URL:https://tmitchelllfp.atlassian.net/browse/GND-82
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-83@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🔄 [GND-83] Record weekly growth measurements
+DESCRIPTION:Key: GND-83\\nStatus: In Progress\\nPriority: Medium\\nEpic: Head-to-Head Grow Test: Garden Rich vs. Natures Best vs. Garden Rich Blowable\\nhttps://tmitchelllfp.atlassian.net/browse/GND-83
+URL:https://tmitchelllfp.atlassian.net/browse/GND-83
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-114@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🔄 [GND-114] Monitor pH on LPM\, NB\, and GR for 1 week after recipe changes
+DESCRIPTION:Key: GND-114\\nStatus: In Progress\\nPriority: High\\nEpic: Reformulate NB GR and LPS\\nhttps://tmitchelllfp.atlassian.net/browse/GND-114
+URL:https://tmitchelllfp.atlassian.net/browse/GND-114
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-115@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🔄 [GND-115] Do not let LPM/NB/GR batches move through system — pull production samples from next mix
+DESCRIPTION:Key: GND-115\\nStatus: In Progress\\nPriority: High\\nEpic: Reformulate NB GR and LPS\\nhttps://tmitchelllfp.atlassian.net/browse/GND-115
+URL:https://tmitchelllfp.atlassian.net/browse/GND-115
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-116@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:🔄 [GND-116] Add Lawn Base and Blended Mint to pH monitoring list for 1 week
+DESCRIPTION:Key: GND-116\\nStatus: In Progress\\nPriority: High\\nEpic: Reformulate NB GR and LPS\\nhttps://tmitchelllfp.atlassian.net/browse/GND-116
+URL:https://tmitchelllfp.atlassian.net/browse/GND-116
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-101@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:🔄 [GND-101] Module 1: Foundations — What QA/QC Means for Soil Mixes
+DESCRIPTION:Key: GND-101\\nStatus: In Progress\\nPriority: Medium\\nEpic: Continuing Education: QA/QC Industry Standards for Soil Mixes\\nhttps://tmitchelllfp.atlassian.net/browse/GND-101
+URL:https://tmitchelllfp.atlassian.net/browse/GND-101
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-131@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:📋 [GND-131] Decide on equipment option (New\, Used\, or DIY)
+DESCRIPTION:Key: GND-131\\nStatus: To Do\\nPriority: Medium\\nEpic: In-House Sieve Testing Setup\\nhttps://tmitchelllfp.atlassian.net/browse/GND-131
+URL:https://tmitchelllfp.atlassian.net/browse/GND-131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-142@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:📋 [GND-142] Create POs for PFRP compost process testing — windrows vs. cure pile
+DESCRIPTION:Key: GND-142\\nStatus: To Do\\nPriority: Medium\\nEpic: Compare Windrow vs. Cured Compost — USCC Level Testing (Prairie Rd)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-142
+URL:https://tmitchelllfp.atlassian.net/browse/GND-142
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-143@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:📋 [GND-143] Send digestate tons/unit report to JCCF
+DESCRIPTION:Key: GND-143\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-143
+URL:https://tmitchelllfp.atlassian.net/browse/GND-143
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-145@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:📋 [GND-145] Create QR code labels for active greenhouse grow tests
+DESCRIPTION:Key: GND-145\\nStatus: To Do\\nPriority: Medium\\nEpic: Head-to-Head Grow Test: Garden Rich vs. Natures Best vs. Garden Rich Blowable\\nhttps://tmitchelllfp.atlassian.net/browse/GND-145
+URL:https://tmitchelllfp.atlassian.net/browse/GND-145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-153@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🔄 [GND-153] Pot up greenhouse seedlings into larger pots
+DESCRIPTION:Key: GND-153\\nStatus: In Progress\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-153
+URL:https://tmitchelllfp.atlassian.net/browse/GND-153
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-155@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:📋 [GND-155] Design and start next greenhouse experiment
+DESCRIPTION:Key: GND-155\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-155
+URL:https://tmitchelllfp.atlassian.net/browse/GND-155
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-163@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:📋 [GND-163] Test digestate inclusion in blended mint at 20% rate
+DESCRIPTION:Key: GND-163\\nStatus: To Do\\nPriority: Medium\\nEpic: Digestate in Blended Mint Trial\\nhttps://tmitchelllfp.atlassian.net/browse/GND-163
+URL:https://tmitchelllfp.atlassian.net/browse/GND-163
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-165@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:📋 [GND-165] Write formal product recipe documentation
+DESCRIPTION:Key: GND-165\\nStatus: To Do\\nPriority: Medium\\nEpic: Recipe Change Protocol\\nhttps://tmitchelllfp.atlassian.net/browse/GND-165
+URL:https://tmitchelllfp.atlassian.net/browse/GND-165
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-166@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:📋 [GND-166] Define recipe change notification protocol (stakeholders\, info shared\, website updates)
+DESCRIPTION:Key: GND-166\\nStatus: To Do\\nPriority: Medium\\nEpic: Recipe Change Protocol\\nhttps://tmitchelllfp.atlassian.net/browse/GND-166
+URL:https://tmitchelllfp.atlassian.net/browse/GND-166
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-167@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:📋 [GND-167] Audit website product recipes for accuracy vs. actual formulations
+DESCRIPTION:Key: GND-167\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-167
+URL:https://tmitchelllfp.atlassian.net/browse/GND-167
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-168@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:📋 [GND-168] Test insect frass as fertilizer addition
+DESCRIPTION:Key: GND-168\\nStatus: To Do\\nPriority: Medium\\nEpic: Insect Frass Fertilizer Trial\\nhttps://tmitchelllfp.atlassian.net/browse/GND-168
+URL:https://tmitchelllfp.atlassian.net/browse/GND-168
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-183@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🔄 [GND-183] Send Garden Compost and Barnyard Compost samples to Sand Pines Golf Course
+DESCRIPTION:Key: GND-183\\nStatus: In Progress\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-183
+URL:https://tmitchelllfp.atlassian.net/browse/GND-183
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-184@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🔄 [GND-184] Send all three biochars to get tested
+DESCRIPTION:Key: GND-184\\nStatus: In Progress\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-184
+URL:https://tmitchelllfp.atlassian.net/browse/GND-184
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-185@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:🔄 [GND-185] Send sample of digestate to OSU dairy
+DESCRIPTION:Key: GND-185\\nStatus: In Progress\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-185
+URL:https://tmitchelllfp.atlassian.net/browse/GND-185
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-187@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:📋 [GND-187] Make fertilizer mix for Jill and HR
+DESCRIPTION:Key: GND-187\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-187
+URL:https://tmitchelllfp.atlassian.net/browse/GND-187
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-188@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:📋 [GND-188] Restart seed mix trial — controlled watering (Run 2)
+DESCRIPTION:Key: GND-188\\nStatus: To Do\\nPriority: High\\nEpic: Develop and test new seed starting mix\\nhttps://tmitchelllfp.atlassian.net/browse/GND-188
+URL:https://tmitchelllfp.atlassian.net/browse/GND-188
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-196@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:📋 [GND-196] QC Flag: Potential herbicide contamination in Veggie Boost Compost — customer plant damage
+DESCRIPTION:Key: GND-196\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-196
+URL:https://tmitchelllfp.atlassian.net/browse/GND-196
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-199@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:📋 [GND-199] Create herbicide input QC program — bioassay all Tier 1 inputs before production use
+DESCRIPTION:Key: GND-199\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-199
+URL:https://tmitchelllfp.atlassian.net/browse/GND-199
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-200@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:📋 [GND-200] Sample Barnyard Compost current lot — set up bean bioassay before next production use
+DESCRIPTION:Key: GND-200\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-200
+URL:https://tmitchelllfp.atlassian.net/browse/GND-200
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-201@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:📋 [GND-201] Sample BioCrop Digestate Fiber current lot — run herbicide bioassay
+DESCRIPTION:Key: GND-201\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-201
+URL:https://tmitchelllfp.atlassian.net/browse/GND-201
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-202@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:📋 [GND-202] Send herbicide-use questionnaire to Hesse (manure/digestate supplier)
+DESCRIPTION:Key: GND-202\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-202
+URL:https://tmitchelllfp.atlassian.net/browse/GND-202
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-203@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:📋 [GND-203] Send herbicide-use questionnaire to Agrarian (Chicken Compost supplier)
+DESCRIPTION:Key: GND-203\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-203
+URL:https://tmitchelllfp.atlassian.net/browse/GND-203
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-204@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:📋 [GND-204] Set up continuous garden compost bioassay monitoring during green waste flush season
+DESCRIPTION:Key: GND-204\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-204
+URL:https://tmitchelllfp.atlassian.net/browse/GND-204
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-205@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:📋 [GND-205] Print physical HOLD labels for receiving dock — QC bioassay pending
+DESCRIPTION:Key: GND-205\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-205
+URL:https://tmitchelllfp.atlassian.net/browse/GND-205
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-207@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:📋 [GND-207] Document current LPM baseline — pH\, drainage\, and micronutrient profile
+DESCRIPTION:Key: GND-207\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-207
+URL:https://tmitchelllfp.atlassian.net/browse/GND-207
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-208@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:📋 [GND-208] Compile seedling trial Run 2 results and identify LPM performance gaps
+DESCRIPTION:Key: GND-208\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-208
+URL:https://tmitchelllfp.atlassian.net/browse/GND-208
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-209@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:📋 [GND-209] Research amendment options to lower LPM pH to target range (~6.3)
+DESCRIPTION:Key: GND-209\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-209
+URL:https://tmitchelllfp.atlassian.net/browse/GND-209
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-210@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:📋 [GND-210] Research micronutrient amendment options for LPM reformulation
+DESCRIPTION:Key: GND-210\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-210
+URL:https://tmitchelllfp.atlassian.net/browse/GND-210
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-211@lfp-jira-gnd
+DTSTAMP:20260707T025334Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:📋 [GND-211] Draft 2–3 candidate LPM reformulation recipes
+DESCRIPTION:Key: GND-211\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-211
+URL:https://tmitchelllfp.atlassian.net/browse/GND-211
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
