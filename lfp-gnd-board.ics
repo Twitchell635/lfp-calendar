@@ -7,48 +7,8 @@ X-WR-CALNAME:LFP GND Board Tasks
 X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Active and upcoming tasks from the LFP Jira GND board
 BEGIN:VEVENT
-UID:GND-265@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260731
-DTEND;VALUE=DATE:20260801
-SUMMARY:📋 [GND-265] CDFA Biocrop update Information
-DESCRIPTION:Key: GND-265\\nStatus: Blocked / Waiting\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-265
-URL:https://tmitchelllfp.atlassian.net/browse/GND-265
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-116@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:📋 [GND-116] Add Lawn Base and Blended Mint to pH monitoring list for 1 week
-DESCRIPTION:Key: GND-116\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate NB GR and LPS\\nhttps://tmitchelllfp.atlassian.net/browse/GND-116
-URL:https://tmitchelllfp.atlassian.net/browse/GND-116
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-114@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:📋 [GND-114] Monitor pH on LPM\, NB\, and GR for 1 week after recipe changes
-DESCRIPTION:Key: GND-114\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate NB GR and LPS\\nhttps://tmitchelllfp.atlassian.net/browse/GND-114
-URL:https://tmitchelllfp.atlassian.net/browse/GND-114
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-155@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:📋 [GND-155] Design and start next greenhouse experiment
-DESCRIPTION:Key: GND-155\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-155
-URL:https://tmitchelllfp.atlassian.net/browse/GND-155
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:GND-163@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
+DTSTAMP:20261031T140026Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:📋 [GND-163] Test digestate inclusion in blended mint at 20% rate
@@ -57,113 +17,13 @@ URL:https://tmitchelllfp.atlassian.net/browse/GND-163
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:GND-165@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:📋 [GND-165] Write formal product recipe documentation
-DESCRIPTION:Key: GND-165\\nStatus: To Do\\nPriority: Medium\\nEpic: Recipe Change Protocol\\nhttps://tmitchelllfp.atlassian.net/browse/GND-165
-URL:https://tmitchelllfp.atlassian.net/browse/GND-165
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-166@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
-SUMMARY:📋 [GND-166] Define recipe change notification protocol (stakeholders\, info shared\, website updates)
-DESCRIPTION:Key: GND-166\\nStatus: To Do\\nPriority: Medium\\nEpic: Recipe Change Protocol\\nhttps://tmitchelllfp.atlassian.net/browse/GND-166
-URL:https://tmitchelllfp.atlassian.net/browse/GND-166
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-167@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:📋 [GND-167] Audit website product recipes for accuracy vs. actual formulations
-DESCRIPTION:Key: GND-167\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-167
-URL:https://tmitchelllfp.atlassian.net/browse/GND-167
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:GND-168@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
+DTSTAMP:20261031T140026Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:📋 [GND-168] Test insect frass as fertilizer addition
 DESCRIPTION:Key: GND-168\\nStatus: To Do\\nPriority: Medium\\nEpic: Insect Frass Fertilizer Trial\\nhttps://tmitchelllfp.atlassian.net/browse/GND-168
 URL:https://tmitchelllfp.atlassian.net/browse/GND-168
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-187@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-SUMMARY:📋 [GND-187] Make fertilizer mix for Jill and HR
-DESCRIPTION:Key: GND-187\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-187
-URL:https://tmitchelllfp.atlassian.net/browse/GND-187
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-188@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:📋 [GND-188] Restart seed mix trial — controlled watering (Run 2)
-DESCRIPTION:Key: GND-188\\nStatus: To Do\\nPriority: High\\nEpic: Develop and test new seed starting mix\\nhttps://tmitchelllfp.atlassian.net/browse/GND-188
-URL:https://tmitchelllfp.atlassian.net/browse/GND-188
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-199@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📋 [GND-199] Create herbicide input QC program — bioassay all Tier 1 inputs before production use
-DESCRIPTION:Key: GND-199\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-199
-URL:https://tmitchelllfp.atlassian.net/browse/GND-199
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-200@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📋 [GND-200] Sample Barnyard Compost current lot — set up bean bioassay before next production use
-DESCRIPTION:Key: GND-200\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-200
-URL:https://tmitchelllfp.atlassian.net/browse/GND-200
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-201@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📋 [GND-201] Sample BioCrop Digestate Fiber current lot — run herbicide bioassay
-DESCRIPTION:Key: GND-201\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-201
-URL:https://tmitchelllfp.atlassian.net/browse/GND-201
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-204@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📋 [GND-204] Set up continuous garden compost bioassay monitoring during green waste flush season
-DESCRIPTION:Key: GND-204\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-204
-URL:https://tmitchelllfp.atlassian.net/browse/GND-204
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:GND-205@lfp-jira-gnd
-DTSTAMP:20261030T140010Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📋 [GND-205] Print physical HOLD labels for receiving dock — QC bioassay pending
-DESCRIPTION:Key: GND-205\\nStatus: To Do\\nPriority: High\\nhttps://tmitchelllfp.atlassian.net/browse/GND-205
-URL:https://tmitchelllfp.atlassian.net/browse/GND-205
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
