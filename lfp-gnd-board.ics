@@ -7,8 +7,58 @@ X-WR-CALNAME:LFP GND Board Tasks
 X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Active and upcoming tasks from the LFP Jira GND board
 BEGIN:VEVENT
+UID:GND-207@lfp-jira-gnd
+DTSTAMP:20261118T140050Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🔄 [GND-207] Document current LPM baseline — pH\, drainage\, and micronutrient profile
+DESCRIPTION:Key: GND-207\\nStatus: In Progress\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-207
+URL:https://tmitchelllfp.atlassian.net/browse/GND-207
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-208@lfp-jira-gnd
+DTSTAMP:20261118T140050Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🔄 [GND-208] Compile seedling trial Run 2 results and identify LPM performance gaps
+DESCRIPTION:Key: GND-208\\nStatus: In Progress\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-208
+URL:https://tmitchelllfp.atlassian.net/browse/GND-208
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-209@lfp-jira-gnd
+DTSTAMP:20261118T140050Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:📋 [GND-209] Research amendment options to lower LPM pH to target range (~6.3)
+DESCRIPTION:Key: GND-209\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-209
+URL:https://tmitchelllfp.atlassian.net/browse/GND-209
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-210@lfp-jira-gnd
+DTSTAMP:20261118T140050Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:📋 [GND-210] Research micronutrient amendment options for LPM reformulation
+DESCRIPTION:Key: GND-210\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-210
+URL:https://tmitchelllfp.atlassian.net/browse/GND-210
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-211@lfp-jira-gnd
+DTSTAMP:20261118T140050Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:📋 [GND-211] Draft 2–3 candidate LPM reformulation recipes
+DESCRIPTION:Key: GND-211\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-211
+URL:https://tmitchelllfp.atlassian.net/browse/GND-211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:GND-163@lfp-jira-gnd
-DTSTAMP:20261117T140048Z
+DTSTAMP:20261118T140050Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:📋 [GND-163] Test digestate inclusion in blended mint at 20% rate
@@ -18,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:GND-168@lfp-jira-gnd
-DTSTAMP:20261117T140048Z
+DTSTAMP:20261118T140050Z
 DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:📋 [GND-168] Test insect frass as fertilizer addition
