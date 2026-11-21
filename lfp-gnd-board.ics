@@ -8,9 +8,9 @@ X-WR-TIMEZONE:America/Los_Angeles
 X-WR-CALDESC:Active and upcoming tasks from the LFP Jira GND board
 BEGIN:VEVENT
 UID:GND-207@lfp-jira-gnd
-DTSTAMP:20261120T140049Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
 SUMMARY:🔄 [GND-207] Document current LPM baseline — pH\, drainage\, and micronutrient profile
 DESCRIPTION:Key: GND-207\\nStatus: In Progress\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-207
 URL:https://tmitchelllfp.atlassian.net/browse/GND-207
@@ -18,9 +18,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:GND-208@lfp-jira-gnd
-DTSTAMP:20261120T140049Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
 SUMMARY:🔄 [GND-208] Compile seedling trial Run 2 results and identify LPM performance gaps
 DESCRIPTION:Key: GND-208\\nStatus: In Progress\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-208
 URL:https://tmitchelllfp.atlassian.net/browse/GND-208
@@ -28,52 +28,72 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:GND-209@lfp-jira-gnd
-DTSTAMP:20261120T140049Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260710
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
 SUMMARY:📋 [GND-209] Research amendment options to lower LPM pH to target range (~6.3)
-DESCRIPTION:Key: GND-209\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-209
+DESCRIPTION:Key: GND-209\\nStatus: To Do\\nPriority: Medium\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-209
 URL:https://tmitchelllfp.atlassian.net/browse/GND-209
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:GND-210@lfp-jira-gnd
-DTSTAMP:20261120T140049Z
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
 SUMMARY:📋 [GND-210] Research micronutrient amendment options for LPM reformulation
-DESCRIPTION:Key: GND-210\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-210
+DESCRIPTION:Key: GND-210\\nStatus: To Do\\nPriority: Medium\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-210
 URL:https://tmitchelllfp.atlassian.net/browse/GND-210
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:GND-211@lfp-jira-gnd
-DTSTAMP:20261120T140049Z
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
 SUMMARY:📋 [GND-211] Draft 2–3 candidate LPM reformulation recipes
-DESCRIPTION:Key: GND-211\\nStatus: To Do\\nPriority: High\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-211
+DESCRIPTION:Key: GND-211\\nStatus: To Do\\nPriority: Medium\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-211
 URL:https://tmitchelllfp.atlassian.net/browse/GND-211
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:GND-163@lfp-jira-gnd
-DTSTAMP:20261120T140049Z
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-SUMMARY:📋 [GND-163] Test digestate inclusion in blended mint at 20% rate
-DESCRIPTION:Key: GND-163\\nStatus: To Do\\nPriority: Medium\\nEpic: Digestate in Blended Mint Trial\\nhttps://tmitchelllfp.atlassian.net/browse/GND-163
-URL:https://tmitchelllfp.atlassian.net/browse/GND-163
+UID:GND-212@lfp-jira-gnd
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:📋 [GND-212] Run greenhouse validation trial with candidate LPM formulas
+DESCRIPTION:Key: GND-212\\nStatus: To Do\\nPriority: Medium\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-212
+URL:https://tmitchelllfp.atlassian.net/browse/GND-212
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:GND-168@lfp-jira-gnd
-DTSTAMP:20261120T140049Z
-DTSTART;VALUE=DATE:20260702
-DTEND;VALUE=DATE:20260703
-SUMMARY:📋 [GND-168] Test insect frass as fertilizer addition
-DESCRIPTION:Key: GND-168\\nStatus: To Do\\nPriority: Medium\\nEpic: Insect Frass Fertilizer Trial\\nhttps://tmitchelllfp.atlassian.net/browse/GND-168
-URL:https://tmitchelllfp.atlassian.net/browse/GND-168
+UID:GND-213@lfp-jira-gnd
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:📋 [GND-213] Write LPM reformulation recommendations report
+DESCRIPTION:Key: GND-213\\nStatus: To Do\\nPriority: Medium\\nEpic: Reformulate Lane Potting Mix (LPM)\\nhttps://tmitchelllfp.atlassian.net/browse/GND-213
+URL:https://tmitchelllfp.atlassian.net/browse/GND-213
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-60@lfp-jira-gnd
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:📋 [GND-60] Set up automated QA/QC yard walk report pipeline
+DESCRIPTION:Key: GND-60\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-60
+URL:https://tmitchelllfp.atlassian.net/browse/GND-60
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:GND-138@lfp-jira-gnd
+DTSTAMP:20261121T140047Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:📋 [GND-138] Monitor greenwaste quality for compost — focus on Springfield yard
+DESCRIPTION:Key: GND-138\\nStatus: To Do\\nPriority: Medium\\nhttps://tmitchelllfp.atlassian.net/browse/GND-138
+URL:https://tmitchelllfp.atlassian.net/browse/GND-138
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
